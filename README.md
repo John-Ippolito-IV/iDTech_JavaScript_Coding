@@ -1,2 +1,2 @@
 # JavaScript Coding
-Hi person grading this. Have a good day.
+Some Javascript projects I did during IDTech
